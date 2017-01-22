@@ -110,7 +110,7 @@ header h2 {
 a.button {
 	 text-align: center;
   display: block;
-  width: 200px;
+  width: 160px;
   padding: 12px 8px 12px 8px;
   font-size: 15px;
   font-weight: bold;
@@ -156,17 +156,9 @@ a.button span {
   height: 23px;
 }
 
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
-}
-#download-tar-gz span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
-}
-#Download NSTU.apk span {
-}
+
 #Download NSTU.apk {
 	 text-align: center;
-  margin-right: 0;
 }
 
 code, pre {
