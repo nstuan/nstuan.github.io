@@ -110,7 +110,6 @@ header h2 {
 a.button {
 	 text-align: center;
   display: block;
-  float: left;
   width: 200px;
   padding: 12px 8px 12px 8px;
   font-size: 15px;
@@ -322,6 +321,7 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
+	 text-align: center;
   background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
