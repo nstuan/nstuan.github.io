@@ -102,14 +102,11 @@ header h2 {
   max-width: 100%;
 }
 
-#downloads {
-	 text-align: center;
-  margin-bottom: 40px;
-}
+
 
 a.button {
 	 text-align: center;
-  display:block inline;
+  display:block;
   width: 160px;
   padding: 12px 8px 12px 8px;
   font-size: 15px;
@@ -152,14 +149,12 @@ a.button:hover {
 
 a.button span {
 	 text-align: center;
-  display: block;
+  
   height: 23px;
 }
 
 
-#Download nstu.apk {
-	text-align:center;
-}
+
 
 code, pre {
   margin-bottom: 30px;
