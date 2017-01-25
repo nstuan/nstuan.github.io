@@ -108,6 +108,7 @@ header h2 {
 
 a.button {
   display: block;
+	text-align:center;
   float:left;
   width: 179px;
   padding: 12px 8px 12px 8px;
@@ -153,6 +154,7 @@ a.button:hover {
 a.button span {
   display: block;
   height: 23px;
+	text-align:center;
  }
 
 #download-zip span {
