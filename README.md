@@ -1,2 +1,2 @@
 ## NSTUan
-NSTUan app is one of the communication mediaum for all NSTUans.
+NSTUan app is one of the communication medium for all NSTUans.
